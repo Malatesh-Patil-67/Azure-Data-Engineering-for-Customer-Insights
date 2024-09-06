@@ -8,3 +8,5 @@ This project focuses on building a comprehensive Azure data engineering solution
 ## Project Architecture
 
 <img width="919" alt="image" src="https://github.com/user-attachments/assets/61688c5f-ab34-487b-9a09-8055540b5c9b">
+
+## steps to create this project
